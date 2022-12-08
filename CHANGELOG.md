@@ -9,6 +9,8 @@ This document follows the conventions laid out in [Keep a CHANGELOG][].
 
 ### Added
 
+- Added ability to create virtual packages using PyModule.FromString
+
 ### Changed
 
 ### Fixed
